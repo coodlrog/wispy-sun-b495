@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "wispy-sun-b495",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a4d23d64-f289-4439-8fd2-6945506cff3d",
+      "database_name": "wispy-sun-b495-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
